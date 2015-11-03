@@ -61,6 +61,8 @@ To install AuthorizeNet, run the following command in the Package Manager Consol
 ````
 
 ## Sample Code
+Sample Codes can be found in the following link:
+
 https://github.com/AuthorizeNet/sample-code-csharp
 
 ## Building from Source
